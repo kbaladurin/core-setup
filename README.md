@@ -463,3 +463,5 @@ Daily Builds
 [rhel-6-badge-2.0.X]: https://dotnetcli.blob.core.windows.net/dotnet/Runtime/release/2.0.0/sharedfx_rhel.6-x64_Release_version_badge.svg
 [rhel-6-version-2.0.X]: https://dotnetcli.blob.core.windows.net/dotnet/Runtime/release/2.0.0/latest.sharedfx.rhel.6.x64.version
 [rhel-6-targz-2.0.X]: https://dotnetcli.blob.core.windows.net/dotnet/Runtime/release/2.0.0/dotnet-runtime-latest-rhel.6-x64.tar.gz
+
+<!-- test -->
